@@ -14,7 +14,7 @@ def reset_decryption():
 
 st.set_page_config(layout="centered")
 
-st.title("🔐 RSA Encryption Demo")
+st.title("Group E: RSA Encryption Demo")
 st.divider()
 
 # SESSION STATE
